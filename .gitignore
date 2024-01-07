@@ -2,3 +2,4 @@ iterm2/
 lazynvim_backup/
 github-copilot/
 .swp
+.DS_Store
